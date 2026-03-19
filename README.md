@@ -1,5 +1,6 @@
 # 💫 Sobre Mim:
-Olá, mundo! 👋 <br><br>Eu sou o JVS<br><br>Sobre mim!<br>Atualmente estou trabalhando como Técnico de Informática ou Técnico de Suporte<br>🔭 Atualmente estou  cursando Developer/Dev/ Desenvolvimento de Sistemas  <br>   Curiosidade:<br>Autodidata de alma e coração.<br>Em um relacionamento sério com o meu aprendizado.<br>Estou procurando um estágio na área de Desenvolvimento de Software
+Olá, mundo! 👋 Eu sou o JVS<br>
+🔭 Atualmente estou  cursando Developer/Dev/ Desenvolvimento de Sistemas  <br> 
 
 
 ## 🌐 Social:
