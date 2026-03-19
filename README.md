@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, mundo! 👋
 
-<!--
-**portfoliojvs/portfoliojvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim!
 
-Here are some ideas to get you started:
+- Atualmente estou trabalhando como Técnico de Informática ou Técnico de Suporte
+- 🔭 Atualmente estou  cursando Developer/Dev/ Desenvolvimento de Sistemas  
+  
+  ⚡ Curiosidade:
+- Autodidata de alma e coração.
+- Em um relacionamento sério com o meu aprendizado.
+-  Estou procurando um estágio na área de Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
