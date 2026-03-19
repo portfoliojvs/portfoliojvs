@@ -15,7 +15,7 @@ Olá, mundo! 👋 Eu sou o JVS<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=portfoliojvs&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=portfoliojvs&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=portfoliojvs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
