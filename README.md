@@ -2,7 +2,8 @@
 
 #  Sobre Mim:
 
-👤 Mini Biografia:<br>Meu nome é Joel sou aluno de Desenvolvimento de Sistemas apaixonado por  tecnologia, já trabalhei como Analista de Suporte Técnico, sou um autodidata louco por tecnologia.<br><br>🎓 Formado em :<br>Técnico de Informática  ETE-ARARIPINA<br>Técnico de Administração ETE-ARARIPINA<br>Estudante de Desenvolvimento de Sistemas  SENAI PE<br><br>    
+👤 Mini Biografia:<br>Meu nome é Joel sou aluno de Desenvolvimento de Sistemas, um autodidata  apaixonado por: tecnologia ,administração e finanças.<br><br>
+🎓 Formado em :<br>Técnico de Informática  ETE-ARARIPINA<br>Técnico de Administração ETE-ARARIPINA<br>Estudante de Desenvolvimento de Sistemas  SENAI PE<br><br>    
 
 <div align="left">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVsdXh3a2U0N2hzcjd5eXI0YTUzc3o5N3VobzJxYnNodXN5MHMyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif"  />
