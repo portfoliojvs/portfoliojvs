@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1lfqg5ykP-LW0FvDFWg_c8zta-OYx3GPY" alt="Imagem do JVS" width="400">
+</p>
 
 #  Sobre Mim:
 
