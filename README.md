@@ -1,6 +1,5 @@
 
 
-
 #  Sobre Mim:
 
 👤 Mini Biografia:<br>Meu nome é Joel sou aluno de Desenvolvimento de Sistemas, um autodidata  apaixonado por: tecnologia ,administração e finanças.<br><br>
