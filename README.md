@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1ORyeGoxuNS4lJ4Y7AOZ8L-DkGp0Gg-dn/view?usp=sharing" alt="Imagem do JVS" width="400">
+  <img src="https://drive.google.com/uc?export=view&id=1ORyeGoxuNS4lJ4Y7AOZ8L-DkGp0Gg-dn" alt="username" width="400">
 </p>
 
 #  Sobre Mim:
