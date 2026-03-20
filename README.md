@@ -1,36 +1,52 @@
-# Sobre Mim: 
-Olá, mundo! 👋 Eu sou o JVS<br>
-🔭 Atualmente estou  cursando Developer/Dev/ Desenvolvimento de Sistemas  <br> 
+<br clear="both">
 
+<div align="left">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVsdXh3a2U0N2hzcjd5eXI0YTUzc3o5N3VobzJxYnNodXN5MHMyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif"  />
+</div>
 
-## 🌐 Social:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:portfoliojvs@gmail.com) 
+###
 
-# 💻 Pilha de Tecnologia:
+<br clear="both">
 
+<h1 align="left">ESTATÍSTICAS</h1>
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=portfoliojvs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1&custom_title=PORTF%C3%93LIO%20JVS" height="300" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=portfoliojvs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="300" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=portfoliojvs&locale=pt-br&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=portfoliojvs&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=true&custom_title=%20GR%C3%81FICO%20DE%20CONTRIBUI%C3%87%C3%95ES%20&line=#FF4858" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
-# 📊 GitHub Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=portfoliojvs&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=portfoliojvs&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=portfoliojvs&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br clear="both">
 
-## 🏆 GitHub Troféus
-![](https://github-profile-trophy.vercel.app/?username=portfoliojvs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=portfoliojvs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
