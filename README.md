@@ -1,5 +1,5 @@
 <br clear="both">
-<h1> Sobre Mim:</h1> 
+<h1> Joel Viana Sero</h1> 
 <br> 
 <h2></h2>
 <p></p>
