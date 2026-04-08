@@ -25,7 +25,7 @@
 
 <h3>👤 Mini Biografia:</h3>
 <p align="left">
-  Meu nome é Joel sou aluno de Desenvolvimento de Sistemas, um autodidata apaixonado por: tecnologia ,administração e finanças.
+  Meu nome é Joel sou aluno de Desenvolvimento de Sistemas, um autodidata apaixonado por:tecnologia ,administração e finanças.
   <br>
   
   🎓 Formado em:  
